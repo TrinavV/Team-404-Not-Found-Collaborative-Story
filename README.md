@@ -7,6 +7,6 @@ It was a dark and stormy night. The rain pattered against the window, but a lone
 
 [Read Chapter 2: The Pull Request of Destiny](chapter_2.py)
    
-[Read Chapter 3: The Sword of Commits](chapter_3.py)  
+[Read Chapter 3: The Sword of Commits](chapter3.py)  
 
 [Read Chapter 4: The Summoning of Allies](chapter_4.py)
